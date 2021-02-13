@@ -9,5 +9,5 @@ This project collects the theoretical and conceptual foundations for multi-modal
 
 ## Subprojects
 
-- [MultiMICO Cluster](/dxiai/multimico-cluster) - Guidelines for low budget edge-computing 
-- [MultiMICO Phi](/dxiai/multimico-phi)- Abstracting Physical Computing Applications with Containers using Raspberry PI
+- [MultiMICO Cluster](https://github.com/dxiai/multimico-cluster) - Guidelines for low budget edge-computing 
+- [MultiMICO Phi](https://github.com/dxiai/multimico-phi)- Abstracting Physical Computing Applications with Containers using Raspberry PI
